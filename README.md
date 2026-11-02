@@ -20,6 +20,9 @@ claude plugin marketplace update catcode
 | Skill | Library |
 |---|---|
 | `catcode-audiosystem` | [AudioSystem](https://github.com/CatCodeGames/AudioSystem) |
+| `catcode-eventprimitives` | [EventPrimitives](https://github.com/CatCodeGames/EventPrimitives) |
+| `catcode-statefuleffects` | [StatefulEffects](https://github.com/CatCodeGames/StatefulEffects) |
+| `catcode-uniloop` | [UniLoop](https://github.com/CatCodeGames/UniLoop) |
 
 ## Adding a skill
 
