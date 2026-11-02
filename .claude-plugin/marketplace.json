@@ -1,0 +1,15 @@
+{
+  "name": "catcode",
+  "description": "Claude Code plugins for CatCode Unity libraries.",
+  "owner": {
+    "name": "CatCode",
+    "url": "https://github.com/CatCodeGames"
+  },
+  "plugins": [
+    {
+      "name": "unity-libs",
+      "source": "./plugins/unity-libs",
+      "description": "Skills with the API and usage rules of CatCode Unity libraries."
+    }
+  ]
+}

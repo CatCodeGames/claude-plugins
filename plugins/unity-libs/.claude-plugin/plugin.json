@@ -1,0 +1,15 @@
+{
+  "name": "unity-libs",
+  "version": "1.0.0",
+  "description": "Skills with the API and usage rules of CatCode Unity libraries.",
+  "author": {
+    "name": "CatCode",
+    "url": "https://github.com/CatCodeGames"
+  },
+  "homepage": "https://github.com/CatCodeGames/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "unity",
+    "catcode"
+  ]
+}
